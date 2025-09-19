@@ -6,7 +6,7 @@ Features include user authentication, posts CRUD, API with token authentication,
 A) Project Setup
 
 1. Clone the repository: 
-   git clone https://github.com/username/laravel-blog-platform.git
+   git clone https://github.com/bharatpatel97/laravel_blog_platform.git
 
 2. Install dependencies:
    composer install
