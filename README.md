@@ -245,6 +245,34 @@ Posts CRUD
       "message": "Post deleted successfully"
    }
 
+8. Project Screenshots
+
+This project includes both API testing screenshots (from Postman) and Posts module screenshots (from the UI).
+
+You can check them inside the screenshots/directory.
+
+API Testing Screenshots
+
+Login API:    screenshots/api/login_api.jpeg
+Logout API:   screenshots/api/logout_api.jpeg
+Posts List:   screenshots/api/posts_list.jpeg
+Single Posts: screenshots/api/get_single_post.jpeg
+Create Post:  screenshots/api/posts_create.jpeg
+Update Post:  screenshots/api/posts_update.jpeg
+Delete Post:  screenshots/api/posts_delete.jpeg
+
+POSTS Testing Screenshots
+
+User Register: screenshots/posts/user-register.png
+New Post:      screenshots/posts/create-new-post.png
+Edit Post:     screenshots/posts/edit-post.png
+View Post:     screenshots/posts/view-post.png
+Email:         screenshots/posts/email.png
+Home Page:     screenshots/posts/home-page.png
+Home Page:     screenshots/posts/login-user-home-page.png
+Login:         screenshots/posts/login.png
+Search:        screenshots/posts/search.png
+
 
 Note:
 
